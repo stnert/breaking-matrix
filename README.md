@@ -222,6 +222,8 @@ Reasons for don't use Big Techs -> https://stallman.org/
 
 # Studying hard for Anti-Tracking 
 
+Blocklist -> https://github.com/tigthor/NSA-CIA-Blocklist
+
 Blocky -> https://0xerr0r.github.io/blocky/v0.23/
 
 Technitium DNS -> https://technitium.com/dns/
