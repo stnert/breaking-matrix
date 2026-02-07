@@ -269,7 +269,7 @@ FireHOL -> https://iplists.firehol.org/
 
 
 
-Made with vibrations of ❤️ (528 Hz) and 🧘‍♂️ (600 Hz) by an eternal anarchist and Bit-twiddling 🕵️‍♂️ 🧑‍💻 | I 💜 Free Software and Kernel Linux, forever. Use Windows? Only if it's to dissect malware and hunt down crackers. MacOS? For me, only the hardware is any good. This is my 🧬.
+Made with vibrations of ❤️ (528 Hz) and 🧘‍♂️ (600 Hz) by an eternal anarchist and Bit-twiddling 🕵️‍♂️ 🧑‍💻 | I 💜 Free Software and Kernel Linux, forever.
 
 
 
