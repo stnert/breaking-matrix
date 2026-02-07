@@ -269,7 +269,7 @@ FireHOL -> https://iplists.firehol.org/
 
 
 
-Made with vibrations of Solfeggio (528 Hz) and Third Eye Awakening (963 Hz) by an eternal anarchist and Bit-twiddling 🕵️‍♂️ 🧑‍💻 | I 💜 Free Software, Kernel Linux and BSD, forever, or as long as it is secure enough in my hands (configure your security/privacy by hand). 
+Made with vibrations of Solfeggio (528 Hz) and Third Eye Awakening (963 Hz) by an eternal anarchist and Bit-twiddling 🕵️‍♂️ 🧑‍💻.| I 💜 Free Software, Kernel Linux and BSD, forever, or as long as it is secure enough in my hands (configure your security/privacy by hand). 
 
 
 <a href="https://www.buymeacoffee.com/alethiometer" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
