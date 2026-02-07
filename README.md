@@ -265,8 +265,7 @@ FireHOL -> https://iplists.firehol.org/
 
  
 
-
-# "Privacy is not the problem, surveillance is."
+# "When under observation, we act with less freedom, which means that we are, in effect, less free".
 
 # Made with vibrations of ❤️ (528 Hz) and 🧘‍♂️ (600 Hz) by an eternal anarchist and cyberactivist 🕵️‍♂️ | I 💜 Free Software and Linux, forever. Use Windows? Only if it's to dissect malware and hunt down crackers. ✌️
 
