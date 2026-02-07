@@ -3,8 +3,6 @@
 <img width="380" height="22" alt="Screenshot_2026-02-07_11-59-42" src="https://github.com/user-attachments/assets/ff957f78-dcbc-45ac-8209-a19b7d2ec7e3" />
 
 
-
-
 Do you know that online surveillance is widespread and constant? If you're concerned about being monitored, don't worry - there are ways to defend yourself. Here are a few helpful tips to protect your online privacy.
 
 The internet is ruled by powerful entities such as **governments**, **_hackers_**, and **_crackers_** - and they're like mutant gods that seem indestructible—the infinite battle. 
