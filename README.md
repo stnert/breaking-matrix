@@ -241,6 +241,8 @@ Control D -> https://controld.com/
 
 AdGuard DNS -> https://adguard-dns.io/
 
+Security Ops -> https://army.securityops.co/
+
 LocalCDN -> https://codeberg.org/nobody/LocalCDN
 
 FireHOL -> https://iplists.firehol.org/
