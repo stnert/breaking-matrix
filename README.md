@@ -71,6 +71,8 @@ OpenBSD -> https://www.openbsd.org/
 
 Void Linux -> https://voidlinux.org/
 
+Tails Linux -> https://tails.net/
+
 NixOS -> https://nixos.org/
 
 GuixOS -> https://guix.gnu.org/
