@@ -65,6 +65,8 @@ MirageOS -> https://mirage.io/
 
 KickSecure -> https://www.kicksecure.com/
 
+IPFire -> https://www.ipfire.org/
+
 OpenBSD -> https://www.openbsd.org/
 
 Void Linux -> https://voidlinux.org/
@@ -200,6 +202,8 @@ How To Check if Your Linux Server Has Been Hacked -> https://www.linuxinsider.co
 OpenSSF Foundation -> https://openssf.org/
 
 The Open Source Security Platform -> https://wazuh.com/blog/
+
+OPNsense Firewall -> https://opnsense.org/
 
 NoPrivacy -> https://github.com/ESUAdmin/NoPrivacy
 
