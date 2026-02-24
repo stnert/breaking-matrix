@@ -42,7 +42,7 @@ SecureDrop is an open-source whistleblower submission system that media organiza
 
 Search for what you need -> https://vx-underground.org/
 
-Didn't even scratch a nail -> https://boehs.org/node/everything-i-know-about-the-xz-backdoor
+Just a fantasy -> https://boehs.org/node/everything-i-know-about-the-xz-backdoor
 
 How a Hacker Saved The Internet -> https://inv.nadeko.net/watch?v=F7iLfuci75Y 
 
