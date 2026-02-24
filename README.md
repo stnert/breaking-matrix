@@ -203,6 +203,8 @@ OpenSSF Foundation -> https://openssf.org/
 
 The Open Source Security Platform -> https://wazuh.com/blog/
 
+Visualize your data, optimize your performance -> https://grafana.com/docs/grafana/latest/?pg=oss-graf&plcmt=hero-btn-2
+
 OPNsense Firewall -> https://opnsense.org/
 
 NoPrivacy -> https://github.com/ESUAdmin/NoPrivacy
