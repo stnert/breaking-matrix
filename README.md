@@ -207,6 +207,10 @@ Visualize your data, optimize your performance -> https://grafana.com/docs/grafa
 
 OPNsense Firewall -> https://opnsense.org/
 
+KeePassXC -> https://keepassxc.org 
+
+Yubico -> https://www.yubico.com/
+
 NoPrivacy -> https://github.com/ESUAdmin/NoPrivacy
 
 PrivacyKallyDev -> https://privacy.kallydev.com/
