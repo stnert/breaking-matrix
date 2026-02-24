@@ -266,7 +266,7 @@ FireHOL -> https://iplists.firehol.org/
 
 Spamhaus -> https://www.spamhaus.com/threat-map/
 
-Spamahaus Live Botnet Top 10 Locations of Malware Infected Devices -> https://www.spamhaus.com/threat-map/#botnet
+Spamhaus Live Botnet Top 10 Locations of Malware Infected Devices -> https://www.spamhaus.com/threat-map/#botnet
 
 
 
