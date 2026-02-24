@@ -199,7 +199,7 @@ How To Check if Your Linux Server Has Been Hacked -> https://www.linuxinsider.co
 
 OpenSSF Foundation -> https://openssf.org/
 
-Data Breach -> https://www.trendmicro.com/vinfo/us/security/definition/data-breach
+The Open Source Security Platform -> https://wazuh.com/blog/
 
 NoPrivacy -> https://github.com/ESUAdmin/NoPrivacy
 
