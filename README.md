@@ -231,6 +231,8 @@ Keep Android Open -> https://keepandroidopen.org/
 
 # Studying hard for Anti-Tracking 
 
+Faraday Cage -> https://en.wikipedia.org/wiki/Faraday_cage
+
 Blocklist -> https://github.com/tigthor/NSA-CIA-Blocklist
 
 Blocky -> https://0xerr0r.github.io/blocky/v0.23/
