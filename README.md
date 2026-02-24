@@ -221,7 +221,7 @@ Debian Security Information -> https://www.debian.org/security/
 
 Why Privacy Matters -> https://www.privacyguides.org/en/basics/why-privacy-matters/#what-is-privacy
 
-Reasons for don't use Big Techs -> https://stallman.org/
+Keep Android Open -> https://keepandroidopen.org/
 
 # Studying hard for Anti-Tracking 
 
@@ -253,11 +253,6 @@ FireHOL -> https://iplists.firehol.org/
 Spamhaus -> https://www.spamhaus.com/threat-map/
 
 Spmahaus Live Botnet Top 10 Locations of Malware Infected Devices -> https://www.spamhaus.com/threat-map/#botnet
-
-Xcitium  -> https://threatmap.xcitium.com/
-
-BitDefender -> https://threatmap.bitdefender.com/
-
 
 
 
