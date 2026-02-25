@@ -233,11 +233,11 @@ Debian Security Information -> https://www.debian.org/security/
 
 Why Privacy Matters -> https://www.privacyguides.org/en/basics/why-privacy-matters/#what-is-privacy
 
-Keep Android Open -> https://keepandroidopen.org/
-
 # Studying hard for Anti-Tracking 
 
 Faraday Cage (Faraday Shield) -> https://en.wikipedia.org/wiki/Faraday_cage
+
+Keep Android Open -> https://keepandroidopen.org/
 
 Blocklist -> https://github.com/tigthor/NSA-CIA-Blocklist
 
