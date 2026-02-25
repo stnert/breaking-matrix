@@ -251,6 +251,12 @@ Privacy Badger -> https://privacybadger.org/
 
 Mullvad DNS -> https://mullvad.net/en/help/dns-over-https-and-dns-over-tls
 
+Mullvad Browser -> https://mullvad.net/en/browser
+
+Librewolf Browser -> https://librewolf.net/
+
+Ungoogled Chromium -> https://github.com/ungoogled-software/ungoogled-chromium
+
 Control D -> https://controld.com/
 
 AdGuard DNS -> https://adguard-dns.io/
