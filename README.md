@@ -95,6 +95,8 @@ Assange wins, but guilty of be journalism -> https://inv.nadeko.net/HEwRZSmwUAA
 
 The GAFAM poster campaign toolkit -> https://gafam.info/
 
+Letter for Soberania Digital -> https://cartasoberaniadigital.lablivre.wiki.br/carta/
+
 Tempora Project -> https://en.wikipedia.org/wiki/Tempora
 
 Echelon Project -> https://pt.wikipedia.org/wiki/Echelon
