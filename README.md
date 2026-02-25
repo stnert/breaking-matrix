@@ -131,6 +131,8 @@ Linux Security Tools (Top100) -> https://linuxsecurity.expert/security-tools/top
 
 The Linux Backdoor Attempt of 2003 -> https://freedom-to-tinker.com/2013/10/09/the-linux-backdoor-attempt-of-2003/
 
+Read or sold your soul automatically ->  https://tosdr.org/en
+
 How the N.S.A. Cracked the Web -> https://www.newyorker.com/tech/annals-of-technology/how-the-n-s-a-cracked-the-web
 
 Protect your freedom and privacy; join us in creating an Internet that's safer from surveillance -> https://www.fsf.org/campaigns/surveillance/
