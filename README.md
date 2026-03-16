@@ -153,8 +153,8 @@ Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
 SecurityOps -> [https://securityops.co/](https://github.com/cristiancmoises/hackerslounge)
 
-Roadmap about Cyber Security -> https://roadmap.sh/cyber-security
-
+Roadmap about Cyber Security -> https://roadmap.sh/cyber-security  (Good for Ethical Hackers) 
+ 
 Security Certification Roadmap -> https://pauljerimy.com/security-certification-roadmap/
 
 Wesley Freitas - Cyber Threat Intelligence -> https://start.me/p/7PPkjR/cyber-threat-intelligence
