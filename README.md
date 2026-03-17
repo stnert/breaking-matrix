@@ -153,6 +153,8 @@ Location Data Brokers -> https://www.eff.org/issues/location-data-brokers
 
 SecurityOps -> [https://securityops.co/](https://github.com/cristiancmoises/hackerslounge)
 
+Manual Operations Anonymous - https://github.com/netcattest/manual-operacoes-anonimas
+
 Roadmap about Cyber Security -> https://roadmap.sh/cyber-security  (Good for Ethical Hackers) 
  
 Security Certification Roadmap -> https://pauljerimy.com/security-certification-roadmap/
